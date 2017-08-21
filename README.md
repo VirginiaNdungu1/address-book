@@ -1,4 +1,4 @@
-# address-book
+# Address-book
 An application to store contact information for our friends and acquaintances.
 
 ## By **[John Mutavi](https://github.com/jonnygovish) and [Virginia Ndung'u](https://virginiandungu1.github.io)**
